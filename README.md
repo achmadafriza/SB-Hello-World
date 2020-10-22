@@ -1,4 +1,4 @@
-If there's no jar, run: `mvn clean package clean package spring-boot:repackage`
+If there's no jar, run: `mvn clean package spring-boot:repackage`
 
 Run JAR on `./target/`
 
